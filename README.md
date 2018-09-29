@@ -15,3 +15,7 @@
 #Palindrome Number
 > All test cases passed, solution accepted.
 > Programmed in Python
+
+#Single Number
+> Top 0.4%
+> All test cases passed.
